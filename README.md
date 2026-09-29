@@ -830,20 +830,4 @@ This project was built to gain practical experience with the process of taking a
 
 Rather than focusing exclusively on one algorithm, the project explores several approaches—from statistical time-series models to recurrent neural networks—and examines how preprocessing, temporal structure, architecture, and evaluation affect the forecasting task.
 
-The broader goal is to develop the habit of **building, experimenting, evaluating, identifying limitations, and iterating**, rather than treating a machine-learning model as a black box.
-
 ---
-
-## Author
-
-**[Your Name]**
-
-* GitHub: [Your GitHub Profile]
-* LinkedIn: [Your LinkedIn Profile]
-* Portfolio: [Your Portfolio Website]
-
----
-
-## License
-
-This project is provided for educational and research purposes. Add a license such as MIT if you intend to explicitly permit reuse and modification.
